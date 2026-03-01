@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Sephia",
+  "base_artist": "Sheila On 7",
+  "createdAt": "2026-03-01T09:41:01.626999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sephia",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/01_Sephia_Sheila_On_7.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sephia",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/02_Sephia_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sephia",
+      "artist": "Sheila on 7",
+      "has_synced": true,
+      "path": "select/03_Sephia_Sheila_on_7.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sephia (OST Generasi 90an Melankolia)",
+      "artist": "gamaliél",
+      "has_synced": false,
+      "path": "select/04_Sephia_(OST_Generasi_90an_Melankolia)_gamaliél.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sephia",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/05_Sephia_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sephia",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/06_Sephia_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sephia [New Version]",
+      "artist": "Tangga",
+      "has_synced": true,
+      "path": "select/07_Sephia_[New_Version]_Tangga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sephia",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/pl_01_Sephia_Sheila_On_7.txt"
+    }
+  ]
+}
